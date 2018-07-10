@@ -1,7 +1,7 @@
 ### Things learned at Bloc.io
 
-# HTML
-# Javascript
-# Atom Editor
-# Git
-# CSS frameworks
+1. HTML
+2. Javascript
+3. Atom Editor
+4. Git
+5. CSS frameworks
